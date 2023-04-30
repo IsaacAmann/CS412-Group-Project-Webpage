@@ -1,0 +1,57 @@
+
+/* Comment */
+
+
+/* Header Tags */
+
+h1 {
+    color: #ffff;
+    text-align: center;
+    font-family: monospace;
+    font-size: 5vw;
+    font-style: BOLD;
+  }
+  
+  h2{
+    color: #ffff;
+    font-family: monospace;
+    font-size: 30px;
+    font-style: BOLD;
+    text-decoration: underline;
+    margin: 2%;
+  }
+  
+
+  /* Paragraph Tag */
+  p {
+    color: #ffff;
+    font-family: monospace;
+    font-size: 20px;
+    word-break: break-word;
+    margin: 2%;
+  }
+  
+  a {
+    font-family: monospace;
+    font-size: 30px;
+    word-break: break-word;
+    margin: 2%;
+  }
+  
+  
+  /* Other Tags */
+  
+  body {
+    background-color: #000000;
+  }
+  
+  
+  img {
+    display: block;
+    
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  
+  
